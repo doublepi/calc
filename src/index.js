@@ -22,3 +22,8 @@ exports.rad2deg = function(rad)
   return rad * 180 / Math.PI;
 }
 
+exports.percent = function(amount, total)
+{
+  return amount * 100 / total
+}
+
