@@ -1,6 +1,6 @@
 {
-  "name": "IIPI-calc",
-  "version": "1.0.0",
+  "name": "2pi-calc",
+  "version": "1.0.1",
   "description": "trigonometry methods",
   "main": "src/index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IIPI/IIPI-calc.git"
+    "url": "https://github.com/IIPI/2pi-calc.git"
   },
   "author": "Giulian Drimba",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IIPI/IIPI-calc/issues"
+    "url": "https://github.com/IIPI/2pi-calc/issues"
   },
-  "homepage": "https://github.com/IIPI/IIPI-calc"
+  "homepage": "https://github.com/IIPI/2pi-calc"
 }
